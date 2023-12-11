@@ -3,6 +3,6 @@ ssCountdownDefaultOptions.secondsColor 	= 	"#11c8ea";
 ssCountdownDefaultOptions.minutesColor 	= 	"#ff5153";
 ssCountdownDefaultOptions.hoursColor 	= 	"#23d0a2";
 ssCountdownDefaultOptions.daysColor 	= 	"#f9b401";
-ssCountdownDefaultOptions.date 		= 	"2023-11-25";
+ssCountdownDefaultOptions.date 		= 	"2023-12-12";
 ssCountdownDefaultOptions.time 		= 	"22:30:00";
 ssCountdownDefaultOptions.timezone 		= 	"GMT+07:00";
